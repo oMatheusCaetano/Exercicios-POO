@@ -34,7 +34,7 @@ import java.util.ArrayList;
 public class Edificio extends Imovel {
     
     //Attributes
-    ArrayList<Porta> portas = new ArrayList();
+    private ArrayList<Porta> portas = new ArrayList();
     private int totalDePortas = portas.size();
     private int totalDeAndares = 1;
     private int cont;
