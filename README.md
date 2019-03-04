@@ -1,2 +1,2 @@
 # Listas-de-exercicios
-Listas de exercícios (POO) feitas durante o segundo período da faculdade.
+Listas de exercícios feitas durante o período da faculdade.
